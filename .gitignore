@@ -1,0 +1,13 @@
+out/
+target/
+tmp/
+output/
+*.zip
+OpenShelf_PBL_Report.pdf
+OpenShelf-IntelliJ-Updated/
+data/*.tsv
+data/*.tsv.tmp
+data/*.done
+.idea/
+*.iml
+*.class
