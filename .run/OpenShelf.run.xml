@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="OpenShelf" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="library.LibraryServer" />
+    <module name="openshelf" />
+    <option name="PROGRAM_PARAMETERS" value="8080" />
+    <option name="VM_PARAMETERS" value="--add-modules jdk.httpserver" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
